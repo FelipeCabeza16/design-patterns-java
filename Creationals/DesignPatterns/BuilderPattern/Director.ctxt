@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Director
+comment0.text=\n\ Contruye\ un\ objeto\ usando\ la\ interfaz\ IBuilder.\n\ \n\ @author\ Felipe\ Cabeza,\ Hollman\ Gonzalez\ \n\ @version\ 2021\n
+comment1.params=builder
+comment1.target=void\ Construct(IBuilder)
+numComments=2

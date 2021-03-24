@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Car\ concrete\ builder.\n\ \n\ @author\ Felipe\ Cabeza,\ Hollman\ Gonzalez\ \n\ @version\ 2021\n
+comment1.params=
+comment1.target=void\ BuildBody()
+comment2.params=
+comment2.target=void\ InsertWheels()
+comment3.params=
+comment3.target=void\ AddHeadlights()
+comment4.params=
+comment4.target=Product\ GetVehicle()
+numComments=5
