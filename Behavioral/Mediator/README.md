@@ -1,0 +1,1 @@
+tomado de https://refactoring.guru/es/design-patterns/mediator
