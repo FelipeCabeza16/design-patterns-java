@@ -1,0 +1,1 @@
+Order sería el Facade que divide los subsistemas
